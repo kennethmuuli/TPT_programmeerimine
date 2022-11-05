@@ -1,5 +1,8 @@
 # Algoritmid aine märkmed:
 
+## Keeled
+- Python
+
 ## Ressursid
 - https://progeopik.cs.ut.ee/
 
