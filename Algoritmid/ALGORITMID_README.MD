@@ -1,9 +1,9 @@
-#Algoritmid aine märkmed:
+# Algoritmid aine märkmed:
 
-##Ressursid
+## Ressursid
 - https://progeopik.cs.ut.ee/
 
-##Programmid
+## Programmid
 - https://thonny.org/
 - http://www.flowgorithm.org/
 
