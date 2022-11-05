@@ -1,5 +1,8 @@
 # Programmeerimisalused märkmed
 
+## Keeled
+- C#
+
 ## Ressursid
 - https://www.tutorialspoint.com/csharp/index.htm (õpik + harjutused ja näited algajatele)
 - https://www.w3schools.com/CS/index.php (õpik + harjutused algajatele)
