@@ -8,6 +8,7 @@
 
 ## Programmid
 - Microsoft Access
+- Opilane path: `\\tptlive\avalik\B307\AN_B307`
 
 ## Märkmed:
 **Andmetüübid**
